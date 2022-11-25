@@ -2,6 +2,8 @@
 
 ==== Vizualizarea proceselor din sistem (ps, pstree, top, htop) ====
 
+This is a test commit
+
 Folosind ''ps'' fără nici un parametru vizualizăm procesele din shell-ul curent asociate utilizatorului curent.
 
 <code bash>
