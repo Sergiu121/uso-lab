@@ -1,5 +1,7 @@
 ===== Demo =====
 
+This is a demo file
+
 Pentru început, vrem să ne acomodăm cu cele mai importante comenzi din linia de comandă, în special cele care lucrează cu fișiere și directoare. Îndrumați de asistent, vom descoperi împreună cum putem folosi linia de comandă pentru a lucra cu sistemul de fișiere și pentru a face acțiuni mai rapid ca în interfața grafică.
 
 <note tip>
