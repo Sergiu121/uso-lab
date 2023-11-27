@@ -1,5 +1,7 @@
 ===== Concepte =====
 
+This is a concepts page
+
 ==== Prezentare generală ====
 
 Orice calculator are nevoie să stocheze date de diferite tipuri undeva, de exemplu pe un hard drive (HDD), un stick de memorie USB, etc.
