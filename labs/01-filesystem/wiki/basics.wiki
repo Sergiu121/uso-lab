@@ -1,5 +1,7 @@
 ===== Basics =====
 
+This is basics content
+
 Pentru a începe acest tutorial trebuie să vă asigurați că sunteți în
 directorul potrivit.
 Rulați comanda ''cd ~/uso-lab/01-fs/support/basics/''. 
