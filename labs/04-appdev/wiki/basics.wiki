@@ -1,5 +1,7 @@
 ==== Primii pași în lumea git-ului ====
 
+Add new basics line to wiki
+
 Așa cum a fost precizat și la secțiunea ''Concepte'', **git** ne ajută la versionarea codului. Versionarea codului este un pas
 foarte important în dezvoltarea aplicațiilor. Atunci când lucrăm la un proiect mai mare sau suntem mai mulți oameni care lucrăm
 la un proiect, este important să păstrăm o ordine în cod. Spre exemplu, ni se poate întâmpla să ne apucăm să implementăm un nou
