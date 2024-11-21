@@ -1,5 +1,7 @@
 ===== Demo =====
 
+Asta este o modificare a demoului.
+
 În acest demo dorim să ne acomodăm cu cele mai importante comenzi utilizate atunci când lucrăm cu utilizatori, grupuri de utilizatori sau permisiuni în Linux.
 
 <note tip>
